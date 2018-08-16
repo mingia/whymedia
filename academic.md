@@ -53,4 +53,4 @@
 - Акценты
 
 ## Прототипирование
-- whitepaper
+- whitepaper lala
